@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Imallenthoma5
 - 👀 I’m interested in ...html, javascript, CSS, Python, SQL, react, node, AWS
-- 🌱 I’m currently learning ...html, javascript, CSS, Python, SQL, react, node, AWS
+- 🌱 I’m currently learning ... Business Analytics and Digital Marketing. Business Acumen. That's what I'm Interested in.
 - 💞️ I’m looking to collaborate on ... whatever is possible. 
 - 📫 How to reach me ... allenthomas.7504@gmail.com
 

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Imallenthoma5
+- 👋 Hi, I’m @Allen_Thomas
 - 👀 I’m interested in ... Python, SQL, Power BI, Tableau, MS Excel, and more
 - 🌱 I’m currently learning ... Business Analytics and Digital Marketing. Developing a Really Strong Business Acumen through Data Analysis, and other related Project Works.
 - 💞️ I’m looking to collaborate with ... Software Companies, Finanace Firms, etc. 

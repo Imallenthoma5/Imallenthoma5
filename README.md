@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Imallenthoma5
 - 👀 I’m interested in ... Python, SQL, Power BI, Tableau, MS Excel, and more
-- 🌱 I’m currently learning ... Business Analytics and Digital Marketing. Business Acumen. That's what I'm Interested in.
-- 💞️ I’m looking to collaborate on ... whatever is possible. 
+- 🌱 I’m currently learning ... Business Analytics and Digital Marketing. Developing a Really Strong Business Acumen through Data Analysis, and other related Project Works.
+- 💞️ I’m looking to collaborate with ... Software Companies, Finanace Firms, etc. 
 - 📫 How to reach me ... allenthomas.7504@gmail.com
 
 <!---
